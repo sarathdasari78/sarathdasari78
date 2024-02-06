@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarathdasari78
-- 👀 I’m interested in ML & Blockchain
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new ML projects
+- 👀 I’m interested in DevOps, ML & Blockchain
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on new ML & DevOps projects
 - 📫 Please reach me on sarath.b.dasari@gmail.com
 
 <!---
