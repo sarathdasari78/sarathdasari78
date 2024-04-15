@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarathdasari78
 - 👀 I’m interested in DevOps, ML & Blockchain
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently working as DevOps engineer
 - 💞️ I’m looking to collaborate on new ML & DevOps projects
 - 📫 Please reach me on sarath.b.dasari@gmail.com
 
